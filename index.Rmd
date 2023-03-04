@@ -7,3 +7,7 @@ site: bookdown::bookdown_site
 
 # Down the rabbit-hole
 
+## 1. 役立ちそうな情報
+
+*   Introduction to Bookdown (R Package) https://www.youtube.com/watch?v=dVqVscgwSpw
+*   How to get started with the bookdown package https://www.youtube.com/watch?v=9i0ElncHGRg
