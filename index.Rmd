@@ -11,3 +11,5 @@ site: bookdown::bookdown_site
 
 *   Introduction to Bookdown (R Package) https://www.youtube.com/watch?v=dVqVscgwSpw
 *   How to get started with the bookdown package https://www.youtube.com/watch?v=9i0ElncHGRg
+*   How to create a bookdown book in 5 minutes
+https://www.youtube.com/watch?v=m5D-yoH416Y
